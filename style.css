@@ -1,19 +1,20 @@
 @import url(//db.onlinewebfonts.com/c/5796fb1b44e3c87b7f3d5ff57994f7b3?family=Druk+Wide+Web+Medium);
-
 @font-face {font-family: "Druk Wide Web Medium"; src: url("//db.onlinewebfonts.com/t/5796fb1b44e3c87b7f3d5ff57994f7b3.eot"); src: url("//db.onlinewebfonts.com/t/5796fb1b44e3c87b7f3d5ff57994f7b3.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5796fb1b44e3c87b7f3d5ff57994f7b3.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5796fb1b44e3c87b7f3d5ff57994f7b3.woff") format("woff"), url("//db.onlinewebfonts.com/t/5796fb1b44e3c87b7f3d5ff57994f7b3.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5796fb1b44e3c87b7f3d5ff57994f7b3.svg#Druk Wide Web Medium") format("svg"); }
 
 @import url(//db.onlinewebfonts.com/c/449332cd3fd5c35107b9dff6bcbc59ba?family=Druk+Text+Cyr);
+@font-face {font-family: "Druk Text Cyr"; src: url("//db.onlinewebfonts.com/t/449332cd3fd5c35107b9dff6bcbc59ba.eot"); src: url("//db.onlinewebfonts.com/t/449332cd3fd5c35107b9dff6bcbc59ba.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/449332cd3fd5c35107b9dff6bcbc59ba.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/449332cd3fd5c35107b9dff6bcbc59ba.woff") format("woff"), url("//db.onlinewebfonts.com/t/449332cd3fd5c35107b9dff6bcbc59ba.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/449332cd3fd5c35107b9dff6bcbc59ba.svg#Druk Text Cyr") format("svg"); }
 
-@import url(//db.onlinewebfonts.com/c/88041027a757e084e649d474e8917758?family=Neue+Helvetica)
-;
+@import url(//db.onlinewebfonts.com/c/88041027a757e084e649d474e8917758?family=Neue+Helvetica);
+@font-face {font-family: "Neue Helvetica"; src: url("//db.onlinewebfonts.com/t/88041027a757e084e649d474e8917758.eot"); src: url("//db.onlinewebfonts.com/t/88041027a757e084e649d474e8917758.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/88041027a757e084e649d474e8917758.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/88041027a757e084e649d474e8917758.woff") format("woff"), url("//db.onlinewebfonts.com/t/88041027a757e084e649d474e8917758.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/88041027a757e084e649d474e8917758.svg#Neue Helvetica") format("svg"); }
 
-@import url(//db.onlinewebfonts.com/c/9ac7e2ff6b9792291e65269b982efa35?family=Helvetica+Neue+LT+Std);
-/*{font-family: "Helvetica Neue LT Std";*/
+@import url(//db.onlinewebfonts.com/c/9ac7e2ff6b9792291e65269b982efa35?family=Helvetica+Neue+LT+Std); /*{font-family: "Helvetica Neue LT Std";*/
+@font-face {font-family: "Helvetica Neue LT Std"; src: url("//db.onlinewebfonts.com/t/9ac7e2ff6b9792291e65269b982efa35.eot"); src: url("//db.onlinewebfonts.com/t/9ac7e2ff6b9792291e65269b982efa35.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9ac7e2ff6b9792291e65269b982efa35.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9ac7e2ff6b9792291e65269b982efa35.woff") format("woff"), url("//db.onlinewebfonts.com/t/9ac7e2ff6b9792291e65269b982efa35.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9ac7e2ff6b9792291e65269b982efa35.svg#Helvetica Neue LT Std") format("svg"); }
 
-@import url(//db.onlinewebfonts.com/c/63467b9cbd4a4d7eafb5e64946ecaa18?family=Maison+Neue);
-/*"Maison Neue"*/
+@import url(//db.onlinewebfonts.com/c/63467b9cbd4a4d7eafb5e64946ecaa18?family=Maison+Neue);/*"Maison Neue"*/
+@font-face {font-family: "Maison Neue"; src: url("//db.onlinewebfonts.com/t/63467b9cbd4a4d7eafb5e64946ecaa18.eot"); src: url("//db.onlinewebfonts.com/t/63467b9cbd4a4d7eafb5e64946ecaa18.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/63467b9cbd4a4d7eafb5e64946ecaa18.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/63467b9cbd4a4d7eafb5e64946ecaa18.woff") format("woff"), url("//db.onlinewebfonts.com/t/63467b9cbd4a4d7eafb5e64946ecaa18.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/63467b9cbd4a4d7eafb5e64946ecaa18.svg#Maison Neue") format("svg"); }
 
 @import url(//db.onlinewebfonts.com/c/0d49fc455f4a8951a42daf952412a713?family=Helvetica+Neue); /*""Helvetica Neue";"*/
+@font-face {font-family: "Helvetica Neue"; src: url("//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.eot"); src: url("//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.woff") format("woff"), url("//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0d49fc455f4a8951a42daf952412a713.svg#Helvetica Neue") format("svg"); }
 
 
 html, body {
